@@ -1,1 +1,1 @@
-Hello Odin! Testing git stagins
+Hello Odin! Testing git stages
